@@ -1,9 +1,9 @@
-Package: com.l.wechatPro
-Name: WeChatPro
+Package: com.lj.karobot
+Name: robot
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: l
-Author: l
+Maintainer: lj
+Author: lj
 Section: Tweaks

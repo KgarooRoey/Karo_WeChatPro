@@ -7,8 +7,8 @@ SRC = $(wildcard src/*.m)
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = WeChatPro
-WeChatPro_FILES =  $(wildcard src/*.m) src/Tweak.xm
+TWEAK_NAME = karobot
+karobot_FILES =  $(wildcard src/*.m) src/Tweak.xm
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
